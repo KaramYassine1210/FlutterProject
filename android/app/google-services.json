@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682311948584",
+    "project_id": "dailyblaguevf",
+    "storage_bucket": "dailyblaguevf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682311948584:android:adb1f27efa12b899e1181d",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZk2mmkIVmuJ7mtW20CdwEci6U1T7npvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
